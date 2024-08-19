@@ -15,4 +15,5 @@ public class Main {
         System.out.println(book1.hashCode());
         System.out.println(author1.hashCode());
     }
+
 }
